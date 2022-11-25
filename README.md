@@ -1,4 +1,4 @@
-<!--[![MasterHead](<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png")]-->
+<a href="https://ibb.co/SfWgbJr"><img src="https://i.ibb.co/sWk4ntH/Banner-Github.gif" alt="Banner-Github" border="0" /></a>
 
 <h2> Hey there👋!, I'm Mounib.</h2>
 <h3 align="center">Engineering Student | Computer Science enthusiast</h3>
