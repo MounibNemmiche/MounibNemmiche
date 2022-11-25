@@ -1,4 +1,4 @@
-<a href='https://postimg.cc/HVXXPcxH' target='_blank'><img src='https://i.postimg.cc/HVXXPcxH/Banner-Github.gif' border='0' alt='Banner-Github'/></a>
+<a href='Banner Github.gif'></a>
 
 <h2> Hey there👋!, I'm Mounib.</h2>
 <h3 align="center">Engineering Student | Computer Science enthusiast</h3>
