@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mounib</h1>
+<h1 align="center">Hi There 👋, I'm Mounib</h1>
 <h3 align="center">A passionate Engineering Student | Computer Science enthusiast</h3>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Python**
