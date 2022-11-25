@@ -1,10 +1,38 @@
-<h1 align="center">Hi There 👋, I'm Mounib</h1>
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+
+<h2> Hey there! I'm Aditya.</h2>
 <h3 align="center">Engineering Student | Computer Science enthusiast</h3>
 
-- ✍️I'm Engineering Student, Looking to specialize in the field of DATA, in addition to my desire to specialize more in this fied, especially with the challenges facing engineering world and the need to deveolp it with the increasing requirements.
-- 🌱 I’m currently learning **JavaScript, TypeScript, Python**
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ⚡ Fun fact **I play billiards very often.**
+- 🤔 &nbsp; Exploring new technologies and using PKM'S (Personal Knowledge Mangement System) 🤭 I'm using @Notion & @Obsidian.
+- 🌱 &nbsp; Learning about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design as hobbie.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![XD](https://www.flaticon.com/fr/icone-gratuite/xd_5968559?term=xd&page=1&position=1&page=1&position=1&related_id=5968559&origin=search)
+
+<br/>
 
 
 <p align="left">
