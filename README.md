@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Mounib</h1>
 <h3 align="center">Engineering Student | Computer Science enthusiast</h3>
 
--✍️I'm Engineering Student, Looking to specialize in the field of DATA, in addition to my desire to specialize more in this fied, especially with the challenges facing engineering world and the need to deveolp it with the increasing requirements.
+- ✍️I'm Engineering Student, Looking to specialize in the field of DATA, in addition to my desire to specialize more in this fied, especially with the challenges facing engineering world and the need to deveolp it with the increasing requirements.
 - 🌱 I’m currently learning **JavaScript, TypeScript, Python**
 
 - ⚡ Fun fact **I play billiards very often.**
