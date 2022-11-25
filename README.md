@@ -9,7 +9,7 @@
   
 - 🌱 &nbsp; Learning about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbie.
-
+- ⚡ Fun fact **I play billiards very often.**
 <h3> 🛠 &nbsp; Learning and using this Tech Stack</h3>
 
 - 💻 &nbsp;
