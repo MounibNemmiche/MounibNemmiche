@@ -1,11 +1,11 @@
-[![MasterHead](<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png")]
+<!--[![MasterHead](<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png")]-->
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Mounib.</h2>
 <h3 align="center">Engineering Student | Computer Science enthusiast</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and using PKM'S (Personal Knowledge Mangement System) 🤭 I'm using @Notion & @Obsidian.
+- 🤔 &nbsp; Exploring new technologies and using PKM'S (Personal Knowledge Mangement System) 🤭 I'm using ![Notion](https://notion.so/) & ![Obsidian](https://obsidian.md/)
 - 🌱 &nbsp; Learning about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbie.
 
