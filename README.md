@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mounib</h1>
 <h3 align="center">A passionate Engineering Student | Computer Science enthusiast</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Python**
 
 - ⚡ Fun fact **I play billiards very often.**
 
