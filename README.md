@@ -30,7 +30,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![XD](https://www.flaticon.com/fr/icone-gratuite/xd_5968559?term=xd&page=1&position=1&page=1&position=1&related_id=5968559&origin=search)
+  ![XD](https://icones8.fr/icon/4VVL78edhbW9/adobe-xd)
 
 <br/>
 
