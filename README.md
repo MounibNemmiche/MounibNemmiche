@@ -31,6 +31,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![XD](https://img.shields.io/badge/-xd-333333?style-flat&logo=adobe-xd)
+  ![Figma](https://img.shields.io/badge/-figma-333333?style-flat&logo=figma)
 
 <br/>
 
