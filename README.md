@@ -5,10 +5,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and using PKM'S (Personal Knowledge Mangement System) 🤭 I'm using [Notion](https://notion.so/) & [Obsidian](https://obsidian.md)]
+- 🤔 &nbsp; Exploring new technologies and using PKM'S (Personal Knowledge Mangement System) 🤭 I'm using [Notion](https://notion.so/) & [Obsidian](https://obsidian.md)].
   
 - 🌱 &nbsp; **Learning about Cloud Architecture, Systems Design and Artificial Intelligence.**
-- 🎨 **Graphic Designer by Night**
+- 🎨 **Graphic Designer by Night**.
 - ⚡ Fun fact I play billiards very often.
 <h3> 🛠 &nbsp; Learning and using this Tech Stack</h3>
 
