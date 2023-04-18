@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and using PKM'S (Personal Knowledge Mangement System) 🤭 I'm using [Notion](https://notion.so/) & [Obsidian](https://obsidian.md)].
+- 🤔 &nbsp; Exploring new technologies and using PKM'S (Personal Knowledge Mangement System) 🤭 I'm using [Notion](https://notion.so/) & [Obsidian](https://obsidian.md).
   
 - 🌱 &nbsp; **Learning about Cloud Architecture, Systems Design and Artificial Intelligence.**
 - 🎨 **Graphic Designer by Night**.
