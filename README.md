@@ -1,7 +1,7 @@
 ![Banner Github.gif](https://github.com/MounibNemmiche/MounibNemmiche/blob/3348b557e24a4fcd45afd02f6f14c9315e1a7a23/Banner%20Github.gif)
 
 <h2> Hey there👋!, I'm Mounib.</h2>
-<h3 align="center">Web Designer | Bsc Network & Telecommunications Engineerring | Computer Science enthusiast</h3>
+<h3 align="center">Web Designer | Msc in ICT | Computer Science enthusiast</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
