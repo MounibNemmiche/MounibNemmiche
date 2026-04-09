@@ -1,14 +1,14 @@
 ![Banner Github.gif](https://github.com/MounibNemmiche/MounibNemmiche/blob/3348b557e24a4fcd45afd02f6f14c9315e1a7a23/Banner%20Github.gif)
 
 <h2> Hey there👋!, I'm Mounib.</h2>
-<h3 align="center">Web Designer | Msc in ICT | Computer Science enthusiast</h3>
+<h3 align="center">IT Consultant | Msc in ICT | Computer Science enthusiast</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and using PKM'S (Personal Knowledge Mangement System) 🤭 I'm using [Notion](https://notion.so/) & [Obsidian](https://obsidian.md).
   
 - 🌱 &nbsp; **Learning about Cloud Architecture, Systems Design.**
-- 🎨 **Graphic\Web Designer by Night**.
+- 🎨 **Freelance IT Consultant by Night**.
 - ⚡ Fun fact I play billiards very often.
 <h3> 🛠 &nbsp; Learning and using this Tech Stack</h3>
 
